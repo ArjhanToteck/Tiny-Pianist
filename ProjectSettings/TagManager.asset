@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - PianoKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Notes
+  - Piano
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2948894819
+    locked: 0
+  - name: Notes
+    uniqueID: 1162139569
+    locked: 0
+  - name: BlackKeys
+    uniqueID: 985471405
+    locked: 0
+  - name: WhiteKeys
+    uniqueID: 3463173381
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
